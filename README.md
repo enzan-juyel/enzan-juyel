@@ -108,19 +108,6 @@ Based in Kyoto, Japan 🇯🇵
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enzan-juyel&theme=tokyonight">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enzan-juyel&theme=tokyonight">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=enzan-juyel&theme=tokyonight">
-</p>
-
----
-
 ## 🌸 Fun Facts
 
 - 🚴 I enjoy cycling around Kyoto & exploring nature
